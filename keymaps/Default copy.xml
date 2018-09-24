@@ -1,0 +1,9 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="meta z" />
+    <keyboard-shortcut first-keystroke="ctrl z" second-keystroke="meta z" />
+  </action>
+  <action id="Editor Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" second-keystroke="meta z" />
+  </action>
+</keymap>
