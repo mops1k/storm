@@ -4,7 +4,7 @@
     <property name="created">2018-09-17T17:25:18</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2018-09-26T14:51:36</property>
+    <property name="modified">2018-09-26T15:12:32</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -14,17 +14,27 @@
   <option name="CONSOLE_FONT_SIZE" value="13" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
-    <option name="CONSOLE_BACKGROUND_KEY" value="7d7d7d" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="555555" />
   </colors>
   <attributes>
+    <option name="CONSOLE_DARKGRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bbbbbb" />
+      </value>
+    </option>
+    <option name="CONSOLE_GRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="eeeeee" />
+      </value>
+    </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e1e1e1" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="a30000" />
+        <option name="FOREGROUND" value="9f4f50" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
