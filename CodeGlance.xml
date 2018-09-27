@@ -2,5 +2,6 @@
   <component name="CodeGlance">
     <option name="clean" value="false" />
     <option name="percentageBasedClick" value="true" />
+    <option name="width" value="196" />
   </component>
 </application>
