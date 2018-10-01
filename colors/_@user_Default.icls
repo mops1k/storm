@@ -4,7 +4,7 @@
     <property name="created">2018-09-17T17:25:18</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2018-09-26T15:12:32</property>
+    <property name="modified">2018-10-01T14:27:36</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -14,9 +14,19 @@
   <option name="CONSOLE_FONT_SIZE" value="13" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
-    <option name="CONSOLE_BACKGROUND_KEY" value="555555" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="0" />
   </colors>
   <attributes>
+    <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="5454ee" />
+      </value>
+    </option>
+    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="c7c7" />
+      </value>
+    </option>
     <option name="CONSOLE_DARKGRAY_OUTPUT">
       <value>
         <option name="FOREGROUND" value="bbbbbb" />
@@ -27,9 +37,24 @@
         <option name="FOREGROUND" value="eeeeee" />
       </value>
     </option>
+    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="b800" />
+      </value>
+    </option>
+    <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="d200d2" />
+      </value>
+    </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="CONSOLE_RED_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="a30000" />
       </value>
     </option>
     <option name="CONSOLE_RED_OUTPUT">
@@ -40,6 +65,11 @@
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="d6d600" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_CODE_TEXT">
