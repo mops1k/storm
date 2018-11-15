@@ -1,0 +1,9 @@
+<templateSet group="PHP">
+  <template name="fun" value="function ($PARAMETERS$) $USE${&#10;    $END$&#10;}&#10;" description="anonimous function" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <variable name="USE" expression="" defaultValue="use ()" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
