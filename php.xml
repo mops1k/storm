@@ -86,7 +86,7 @@
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="c84e8271-f672-4792-90d4-26f9a9d54425" load_method="CUSTOM_LOADER" custom_loader_path="/var/www/symfony/vendor/autoload.php" phpunit_phar_path="" />
+      <phpunit_by_interpreter interpreter_id="c84e8271-f672-4792-90d4-26f9a9d54425" load_method="CUSTOM_LOADER" configuration_file_path="/var/www/symfony/config/phpunit.local.xml" custom_loader_path="/var/www/symfony/vendor/autoload.php" phpunit_phar_path="" use_configuration_file="true" />
     </phpunit_settings>
   </component>
 </application>
