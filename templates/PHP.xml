@@ -6,4 +6,18 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="pubc" value="public const $NAME$ = $END$;" description="public const" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="pric" value="private const $NAME$ = $END$;" description="private const" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
 </templateSet>
