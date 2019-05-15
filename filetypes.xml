@@ -1,13 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="composer.json" type="Composer Log" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern="entrypoint.php" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="response" type="PLAIN_TEXT" />
       <mapping ext="igbinary" type="PLAIN_TEXT" />
       <mapping ext="mock" type="PLAIN_TEXT" />
-      <mapping pattern="*.html.twig" type="Twig" />
+      <mapping ext="response" type="PLAIN_TEXT" />
+      <mapping pattern="*.*.twig" type="Twig" />
+      <removed_mapping ext="twig" approved="true" type="Twig" />
+      <removed_mapping pattern="*.html.twig" approved="true" type="Twig" />
+      <removed_mapping ext="twig" approved="true" type="Twig" />
     </extensionMap>
   </component>
 </application>
