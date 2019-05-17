@@ -1,5 +1,6 @@
 <application>
   <component name="GitToolBoxAppSettings2">
+    <option name="presentationMode" value="text" />
     <option name="decorationParts">
       <list>
         <DecorationPartConfig>
