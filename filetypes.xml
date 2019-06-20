@@ -5,6 +5,7 @@
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern="entrypoint.php" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="response" type="PLAIN_TEXT" />
       <mapping ext="igbinary" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
