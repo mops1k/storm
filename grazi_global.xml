@@ -8,6 +8,11 @@
     </option>
     <option name="nativeLanguage" value="Russian" />
     <option name="enabledSpellcheck" value="true" />
+    <option name="userWords">
+      <set>
+        <option value="builded" />
+      </set>
+    </option>
     <option name="lastSeenVersion" value="2019.2-3.stable" />
   </component>
 </application>
