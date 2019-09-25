@@ -12,6 +12,7 @@
       <set>
         <option value="builded" />
         <option value="sluggable" />
+        <option value="slugify" />
       </set>
     </option>
     <option name="lastSeenVersion" value="2019.2-4.stable" />
