@@ -11,6 +11,7 @@
     <option name="userWords">
       <set>
         <option value="builded" />
+        <option value="sluggable" />
       </set>
     </option>
     <option name="lastSeenVersion" value="2019.2-4.stable" />
