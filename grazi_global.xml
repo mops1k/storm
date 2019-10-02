@@ -13,6 +13,7 @@
         <option value="builded" />
         <option value="sluggable" />
         <option value="slugify" />
+        <option value="urlset" />
         <option value="yandex" />
       </set>
     </option>
