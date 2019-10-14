@@ -12,6 +12,7 @@
       <set>
         <option value="builded" />
         <option value="changefreq" />
+        <option value="googlebot" />
         <option value="lastmod" />
         <option value="sluggable" />
         <option value="slugify" />
