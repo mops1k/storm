@@ -11,6 +11,13 @@
     <option name="userWords">
       <set>
         <option value="builded" />
+        <option value="changefreq" />
+        <option value="googlebot" />
+        <option value="lastmod" />
+        <option value="sluggable" />
+        <option value="slugify" />
+        <option value="urlset" />
+        <option value="yandex" />
       </set>
     </option>
     <option name="lastSeenVersion" value="2019.2-4.stable" />
