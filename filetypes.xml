@@ -2,21 +2,21 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
-      <mapping pattern="admin" type="PLAIN_TEXT" />
-      <mapping pattern=".travis_ci" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern="entrypoint.php" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="admin" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="cron" type="PLAIN_TEXT" />
-      <mapping ext="igbinary" type="PLAIN_TEXT" />
-      <mapping ext="cron" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".travis_ci" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
-      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="response" type="PLAIN_TEXT" />
+      <mapping ext="cron" type="PLAIN_TEXT" />
+      <mapping ext="igbinary" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="mock" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="*.*.twig" type="Twig" />
       <mapping pattern="*.html.twig" type="Twig" />
       <removed_mapping ext="twig" approved="true" type="Twig" />
