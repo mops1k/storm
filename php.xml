@@ -1,11 +1,5 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings_migrated />
-  </component>
   <component name="PhpAutoImport" auto_import_file_scope="true" />
-  <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
-  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="78adba57-3fa4-43ab-90b4-89fec01d9939" name="PHP 7.3" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
@@ -14,14 +8,14 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.3">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.3.7">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.3.11">
           <additional_php_ini>/etc/php/conf.d/igbinary.ini, /etc/php/conf.d/xdebug.ini</additional_php_ini>
           <configuration_file>/etc/php/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".:" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.7.2">
+            <debugger_info debugger="xdebug" debugger_version="2.8.0">
               <debug_extensions />
             </debugger_info>
           </debuggers>
