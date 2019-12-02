@@ -7,6 +7,7 @@
       </set>
     </option>
     <option name="nativeLanguage" value="Russian" />
+    <option name="enabledCommitIntegration" value="true" />
     <option name="userWords">
       <set>
         <option value="builded" />
@@ -17,6 +18,12 @@
         <option value="slugify" />
         <option value="urlset" />
         <option value="yandex" />
+      </set>
+    </option>
+    <option name="userEnabledRules">
+      <set>
+        <option value="WIKIPEDIA_CONTRACTIONS" />
+        <option value="WIKIPEDIA_CURRENTLY" />
       </set>
     </option>
     <option name="lastSeenVersion" value="2019.3-6.2.stable" />
