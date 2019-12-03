@@ -1,5 +1,10 @@
 <application>
   <component name="PhpAutoImport" auto_import_file_scope="true" />
+  <component name="PhpCSFixer">
+    <phpcsfixer_settings>
+      <phpcs_fixer_by_interpreter interpreter_id="bdec4c0a-4e1b-401c-8108-e1472ce9649e" tool_path="/root/.composer/vendor/bin/php-cs-fixer" />
+    </phpcsfixer_settings>
+  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="bdec4c0a-4e1b-401c-8108-e1472ce9649e" name="Arch Linux (WSL)" home="wsl://DATA" debugger_id="php.debugger.XDebug">
