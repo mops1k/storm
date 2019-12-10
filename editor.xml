@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="AUTOCOMPLETE_ON_SMART_TYPE_COMPLETION" value="false" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="12" />
     <option name="FONT_FAMILY" value="Ubuntu Mono" />
@@ -22,6 +25,7 @@
       </map>
     </option>
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="IS_CAMEL_WORDS" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
