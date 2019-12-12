@@ -1,5 +1,6 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings />
+    <MarkdownCssSettings StylesheetUri="file://C:/dev/intellij-markdown.css" />
+    <MarkdownPreviewSettings DefaultSplitLayout="Show editor only" UseGrayscaleRendering="false" />
   </component>
 </application>

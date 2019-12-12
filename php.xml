@@ -1,30 +1,32 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings_migrated />
-  </component>
   <component name="PhpAutoImport" auto_import_file_scope="true" />
+  <component name="PhpCSFixer">
+    <phpcsfixer_settings>
+      <phpcs_fixer_by_interpreter interpreter_id="bdec4c0a-4e1b-401c-8108-e1472ce9649e" standards="PSR1;PSR2;Symfony;DoctrineAnnotation;PHP70Migration;PHP71Migration" tool_path="/root/.composer/vendor/bin/php-cs-fixer" timeout="25000" />
+    </phpcsfixer_settings>
+  </component>
   <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
+    <phpcs_settings>
+      <phpcs_by_interpreter interpreter_id="bdec4c0a-4e1b-401c-8108-e1472ce9649e" standards="MySource;PEAR;PSR1;PSR12;PSR2;Squiz;Zend" tool_path="/root/.composer/vendor/bin/phpcs" timeout="25000" />
+    </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="78adba57-3fa4-43ab-90b4-89fec01d9939" name="PHP 7.3" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="bdec4c0a-4e1b-401c-8108-e1472ce9649e" name="Arch Linux (WSL)" home="wsl://DATA" debugger_id="php.debugger.XDebug">
+        <remote_data DISTRIBUTION_ID="ARCH" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
+      </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.3">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.3.7">
-          <additional_php_ini>/etc/php/conf.d/igbinary.ini, /etc/php/conf.d/xdebug.ini</additional_php_ini>
+      <interpreter name="Arch Linux (WSL)">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.4.0">
+          <additional_php_ini />
           <configuration_file>/etc/php/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".:" />
           </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.7.2">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
+          <debuggers />
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
@@ -32,17 +34,13 @@
             <extension name="Reflection" />
             <extension name="SPL" />
             <extension name="SimpleXML" />
-            <extension name="bcmath" />
             <extension name="ctype" />
             <extension name="curl" />
             <extension name="date" />
             <extension name="dom" />
-            <extension name="exif" />
             <extension name="fileinfo" />
             <extension name="filter" />
-            <extension name="ftp" />
             <extension name="hash" />
-            <extension name="iconv" />
             <extension name="json" />
             <extension name="libxml" />
             <extension name="mbstring" />
@@ -50,17 +48,13 @@
             <extension name="openssl" />
             <extension name="pcntl" />
             <extension name="pcre" />
-            <extension name="pdo_mysql" />
             <extension name="posix" />
             <extension name="readline" />
             <extension name="session" />
-            <extension name="sockets" />
             <extension name="standard" />
             <extension name="tokenizer" />
-            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
-            <extension name="xmlrpc" />
             <extension name="xmlwriter" />
             <extension name="zip" />
             <extension name="zlib" />
@@ -68,5 +62,9 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
+  </component>
+  <component name="PhpSmartKeysConfiguration">
+    <option name="selectVariableNameWithoutDollar" value="true" />
+    <option name="smartFunctionParametersCompletion" value="true" />
   </component>
 </application>
