@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '...\symfony_files\src\Controller\v4\BookmakerRating\Rating.php'" />
+    <option name="defaultScopeName" value="File '...\symfony_files\src\Controller\v4\BookmakerRating\Rating.php'" />
+    <option name="SEARCH_SCOPE" value="File '...\symfony_files\src\Controller\v4\BookmakerRating\Rating.php'" />
     <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
