@@ -4,12 +4,13 @@
     <property name="created">2019-12-03T15:51:58</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2020-01-17T14:01:14</property>
+    <property name="modified">2020-01-17T14:08:55</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.1" />
+  <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_NAME" value="Cascadia Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Cascadia Mono PL" />
+  <option name="CONSOLE_LIGATURES" value="true" />
 </scheme>
