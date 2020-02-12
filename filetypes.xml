@@ -2,8 +2,12 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
-      <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping pattern="*.yml*.dist" type="YAML" />
+      <mapping pattern="*.yaml*.dist" type="YAML" />
+      <removed_mapping pattern="*.yml.dist" approved="true" type="YAML" />
+      <removed_mapping pattern="*.yaml.dist" approved="true" type="YAML" />
     </extensionMap>
   </component>
 </application>
