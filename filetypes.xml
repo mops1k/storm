@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
