@@ -2,7 +2,7 @@
   <component name="PhpAutoImport" auto_import_file_scope="true" />
   <component name="PhpCSFixer">
     <phpcsfixer_settings>
-      <phpcs_fixer_by_interpreter interpreter_id="1766a0df-4903-4543-adb3-6af51694b998" standards="PSR1;PSR2;Symfony;DoctrineAnnotation;PHP70Migration;PHP71Migration" tool_path="/root/.composer/vendor/bin/php-cs-fixer" timeout="30000" />
+      <phpcs_fixer_by_interpreter interpreter_id="3b6c3da2-20a0-4543-b44f-24dc9c699243" tool_path="/root/.composer/vendor/bin/php-cs-fixer" timeout="30000" />
     </phpcsfixer_settings>
   </component>
   <component name="PhpInterpreters">
