@@ -10,15 +10,6 @@
       <interpreter id="3b6c3da2-20a0-4543-b44f-24dc9c699243" name="Ubuntu" home="wsl://DATA" debugger_id="php.debugger.XDebug">
         <remote_data INTERPRETER_PATH="php" HELPERS_PATH="" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DISTRIBUTION_ID="UBUNTU" />
       </interpreter>
-      <interpreter id="b0a0a0ad-fb1a-499a-af7b-fc1316fbe037" name="Docker Client" home="docker-compose://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="bss" DOCKER_REMOTE_PROJECT_PATH="/opt/project">
-          <type_data command="EXEC" />
-          <dockerComposeConfigurationPaths>
-            <item value="C:/dev/prosense/bss/docker-compose.yaml" />
-          </dockerComposeConfigurationPaths>
-          <envs />
-        </remote_data>
-      </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
