@@ -4,12 +4,31 @@
     <property name="created">2019-12-03T15:51:58</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2020-05-14T13:57:53</property>
+    <property name="modified">2020-05-26T17:26:45</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="11" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-  <option name="CONSOLE_FONT_NAME" value="Ubuntu Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Roboto Mono Medium for Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="11" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Inconsolata for Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="11" />
+  </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
+  <attributes>
+    <option name="CONSOLE_GRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="e6e6e6" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="b0b000" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
