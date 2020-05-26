@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="ubuntu" />
-    <option name="myTabName" value="BASH" />
+    <option name="myShellPath" value="bash" />
+    <option name="myTabName" value="Ubuntu" />
   </component>
 </application>
