@@ -7,7 +7,7 @@
   </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <phpcs_by_interpreter interpreter_id="3b6c3da2-20a0-4543-b44f-24dc9c699243" tool_path="/root/.composer/vendor/bin/phpcs" />
+      <phpcs_by_interpreter interpreter_id="3b6c3da2-20a0-4543-b44f-24dc9c699243" tool_path="/root/.composer/vendor/bin/phpcs" timeout="30000" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
