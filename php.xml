@@ -5,6 +5,11 @@
       <phpcs_fixer_by_interpreter interpreter_id="3b6c3da2-20a0-4543-b44f-24dc9c699243" standards="PSR1;PSR2;Symfony;DoctrineAnnotation;PHP70Migration;PHP71Migration" tool_path="/root/.composer/vendor/bin/php-cs-fixer" timeout="30000" />
     </phpcsfixer_settings>
   </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <phpcs_by_interpreter interpreter_id="3b6c3da2-20a0-4543-b44f-24dc9c699243" tool_path="/root/.composer/vendor/bin/phpcs" />
+    </phpcs_settings>
+  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="3b6c3da2-20a0-4543-b44f-24dc9c699243" name="Ubuntu" home="wsl://DATA" debugger_id="php.debugger.XDebug">
