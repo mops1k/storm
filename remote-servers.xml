@@ -3,22 +3,6 @@
     <remote-server name="Docker" type="docker">
       <configuration>
         <option name="apiUrl" value="tcp://ubuntu.wsl:2375" />
-        <option name="pathMappings">
-          <list>
-            <DockerPathMappingImpl>
-              <option name="localPath" value="C:\Users" />
-              <option name="virtualMachinePath" value="/c/Users" />
-            </DockerPathMappingImpl>
-            <DockerPathMappingImpl>
-              <option name="localPath" value="/c/dev/prosense/bss" />
-              <option name="virtualMachinePath" value="/app" />
-            </DockerPathMappingImpl>
-            <DockerPathMappingImpl>
-              <option name="localPath" value="C:\dev\prosense\bss" />
-              <option name="virtualMachinePath" value="/app" />
-            </DockerPathMappingImpl>
-          </list>
-        </option>
       </configuration>
     </remote-server>
   </component>
