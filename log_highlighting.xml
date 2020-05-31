@@ -5,6 +5,8 @@
       <LogHighlightingPattern pattern="^\s*w(arn(ing)?)?\s*$" action="HIGHLIGHT_LINE" fg="-22016" bold="true" />
       <LogHighlightingPattern pattern="^\s*i(nfo)?\s*$" action="HIGHLIGHT_LINE" fg="-12599489" />
       <LogHighlightingPattern pattern="^\s*c(ritical)?\s*$" bg="-7274496" bold="true" stripe="true" />
+      <LogHighlightingPattern pattern="^*\.ERROR\:*" fg="-842730" bg="-3815995" bold="true" stripe="true" />
+      <LogHighlightingPattern pattern="^*\.INFO\:*" fg="-14540098" italic="true" stripe="true" />
     </highlightingPatterns>
     <parsingPatterns>
       <LogParsingPattern name="Pipe-separated" pattern="^(?s)([^|]*)\|([^|]*)\|([^|]*)\|(.*)$" timePattern="HH:mm:ss.SSS" linePattern="^\d" timeId="0" severityId="1" categoryId="2" />
