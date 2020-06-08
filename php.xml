@@ -5,18 +5,6 @@
       <phpcs_fixer_by_interpreter interpreter_id="3b6c3da2-20a0-4543-b44f-24dc9c699243" standards="PSR1;PSR2;Symfony;DoctrineAnnotation;PHP70Migration;PHP71Migration" tool_path="/root/.composer/vendor/bin/php-cs-fixer" timeout="30000" />
     </phpcsfixer_settings>
   </component>
-  <component name="PhpCodeSniffer">
-    <phpcs_settings>
-      <phpcs_by_interpreter interpreter_id="3b6c3da2-20a0-4543-b44f-24dc9c699243" standards="MySource;PEAR;PSR1;PSR12;PSR2;Squiz;Symfony;Zend" tool_path="/root/.composer/vendor/bin/phpcs" timeout="30000" />
-    </phpcs_settings>
-  </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter id="3b6c3da2-20a0-4543-b44f-24dc9c699243" name="wsl" home="wsl://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data INTERPRETER_PATH="php" HELPERS_PATH="" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DISTRIBUTION_ID="UBUNTU" />
-      </interpreter>
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="wsl">
@@ -81,9 +69,5 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
-  </component>
-  <component name="PhpSmartKeysConfiguration">
-    <option name="selectVariableNameWithoutDollar" value="true" />
-    <option name="smartFunctionParametersCompletion" value="true" />
   </component>
 </application>
